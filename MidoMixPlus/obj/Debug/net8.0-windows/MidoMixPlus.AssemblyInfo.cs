@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MidoMixPlus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c87d9c753d24d7914149dc82a1d49263c1897cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MidoMixPlus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MidoMixPlus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

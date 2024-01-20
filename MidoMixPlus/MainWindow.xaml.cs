@@ -20,5 +20,30 @@ namespace MidoMixPlus
         {
             InitializeComponent();
         }
+
+        private void BtnCarColor_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnCustomColor_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnSettings_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void PaintStockInfo_Loaded(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void PaintStockInfo_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UPFJlS+x6pwXjKj1TfKHx8b4Fr2meTBgR7fV7rdC5WD3PQABD5pM9h9zqAcFuM9jddPvKVnou3LOtJiheTYRwg==",
+  "dgSpecHash": "ILKi19HMWecFY+/NXORsT+fKF/Pv2Vgc95HVLsUfVD+r+GqsYVKctJ0X1wIbFP2gtKNWliKWEujJltwU5ZROfw==",
   "success": true,
   "projectFilePath": "E:\\Official Apps working\\MidoMixPlus\\MidoMixPlus\\MidoMixPlus.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
   "logs": []
 }
